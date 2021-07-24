@@ -5,9 +5,9 @@ class Config {
 	public static $con;
 
 	// Production
-  public static $domain = 'www.ffxivhuntspath.com';
-  public static $domain_cookie = '.ffxivhuntspath.com';
-  public static $context = '';
+  public static $domain = 'www.kite-mite.com/ffxivhunts';
+  public static $domain_cookie = 'www.kite-mite.com';
+  public static $context = '/ffxivhunts';
 	
 	public static $db_hostname = 'localhost';
 	public static $db_username = 'ffxiv2_admin';

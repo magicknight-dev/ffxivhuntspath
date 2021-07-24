@@ -35,8 +35,8 @@
 		
 		<meta property="og:title" content="FFXIV Hunts Path Finder" />
 		<meta property="og:type" content="website" />
-		<meta property="og:url" content="http://www.ffxivhuntspath.com/" />
-		<meta property="og:image" content="http://www.ffxivhuntspath.com/img/logo_preview.png" />
+		<meta property="og:url" content="http://www.cresa.jp/ffxivhunts/" />
+		<meta property="og:image" content="http://www.cresa.jp/ffxivhunts/img/logo_preview.png" />
 		<meta property="og:site_name" content="FFXIV Hunts Path Finder">
 		<meta property="og:description" content="Simple tool for searching the best route for a group of selected mobs, designed for the daily marks included in FFXIV" />
 
@@ -146,7 +146,7 @@
 	
 	function print_footer(){
 ?>			<div class="footer row" style="width:100%;">
-				<p class="text-right"><a href="https://www.facebook.com/ffxivhuntspath/"><img src="/img/facebook.png" class="ext-link-icon"></a><a href="https://twitter.com/ffxivhuntspath"><img src="/img/twitter.png" class="ext-link-icon"></a></p>
+<!--				<p class="text-right"><a href="https://www.facebook.com/ffxivhuntspath/"><img src="<?php echo Config::$context ?>/img/facebook.png" class="ext-link-icon"></a><a href="https://twitter.com/ffxivhuntspath"><img src="<?php echo Config::$context ?>/img/twitter.png" class="ext-link-icon"></a></p> -->
 				<p class="text-right"><?php echo WebLang::$MSG_FOOTER_DATA ?></p>
 				<p class="text-right">FINAL FANTASY is a registered trademark of Square Enix Holdings Co., Ltd.</p>
 				<p class="text-right"><small><?php echo WebLang::$MSG_HOME_COLLABORATE ?>: <script type="text/javascript"><!--

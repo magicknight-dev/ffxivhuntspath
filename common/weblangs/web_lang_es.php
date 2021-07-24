@@ -66,7 +66,7 @@ class WebLang {
 	
 	public static $MSG_NO_JS_EMAIL = 'Habilita Javascript para ver la dirección de correo';
 	
-	public static $MSG_TEMPORAL_ARR_WARN = 'Esta es una versión preliminar de la expansión y puede contener errores, para más información visita los <a href="/home/#update5">Cambios recientes</a>';
+	public static $MSG_TEMPORAL_ARR_WARN = 'Esta es una versión preliminar de la expansión y puede contener errores, para más información visita los <a href="/ffxivhunts/home/#update5">Cambios recientes</a>';
 			
 	public static $MSG_HOME_UPDATES_7 =
 			'Me gustaría informar de que la expansión Shadowbringers, disponible a partir del 2 de Julio de 2019, será añadida.<br/><br/>Al mismo tiempo, se está rehaciendo de 0 la página web, con un backend y un frontend separados con la posibilidad de que el backend sea usado como API pública. Todo el código será publicado en GitHub. Así aprovecharé para realizar numerosos cambios que me habéis pedido y otras mejoras, manteniendo la esencia de esta web intacta.<br/><br/>Saludos!'
